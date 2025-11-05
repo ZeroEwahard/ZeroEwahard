@@ -12,6 +12,7 @@
 - JavaScript
 - Python
 - Segurança Cibernética
+- Java
 
 ---
 
