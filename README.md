@@ -18,7 +18,7 @@
 
 ## Objetivo
 
-Atualmente, busco oportunidades como **Estágios em tecnologia** onde eu possa:
+Atualmente, busco oportunidades como **Aprendiz ou Treinee em tecnologia** onde eu possa:
 - Colocar em prática os conhecimentos adquiridos
 - Continuar aprendendo e evoluindo na área de TI
 
