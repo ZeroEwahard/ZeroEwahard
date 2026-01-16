@@ -1,7 +1,7 @@
 # Ryan Pereira da Silva
 
 🎓 Sou um estudante de Sistemas para Internet 
-🚀 Apaixonado por tecnologia, especialmente nas áreas de **Desenvolvimento web** e **Cibersegurança**.
+🚀 Apaixonado por tecnologia, especialmente nas áreas de **Desenvolvimento web**, **Back-End** e **Cibersegurança**.
 
 ---
 
