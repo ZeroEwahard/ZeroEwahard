@@ -13,6 +13,7 @@
 - Python
 - Segurança Cibernética
 - Java
+- SQL
 
 ---
 
